@@ -1,0 +1,18 @@
+{
+  "name": "fibonacci-range",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibonacci-range.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {
+    "tap-spec": "4.1.1",
+    "tape": "4.6.3"
+  }, 
+  "scripts" : {
+    "test" : "tape test.js | tap-spec"
+  }
+}
