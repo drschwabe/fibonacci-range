@@ -1,7 +1,7 @@
 {
   "name": "fibonacci-range",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creates an array representation of a fibonacci sequence.",
   "main": "fibonacci-range.js",
   "author": "",
   "license": "MIT",
@@ -12,6 +12,7 @@
     "tap-spec": "4.1.1",
     "tape": "4.6.3"
   }, 
+  "keywords": ["fibonacci","underscore","range","array","sequence","math"],
   "scripts" : {
     "test" : "tape test.js | tap-spec"
   }
